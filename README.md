@@ -17,6 +17,11 @@ It is intended for strengthening problem-solving skills and preparing for **codi
 - Left & Right Rotation of Array
 - Linear Search
 - Array Manipulation Problems
+- Two Sum Problem
+- Prefix Sum
+- Maximum Subarray Problems
+- Sliding Window
+- Divide And Conquer
 
 ---
 
